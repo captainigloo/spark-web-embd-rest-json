@@ -3,7 +3,7 @@
 #include "HttpRequest.h"
 #include "HttpResponse.h"
 #include "http_parser.h"
-#include "spark-web-embd-rest-json.h"
+#include "slre.h"
 #include <map>
 #include <list>
 
