@@ -9,7 +9,7 @@
  * for more details.
  */ 
  
-#include "spark-web-embd-rest-json/HttpResponse.h"
+#include "HttpResponse.h"
 
 const char* const HttpResponse::DEFAULT_CONTENT_TYPE = "Content-Type: text/html; charset=utf-8";
 
