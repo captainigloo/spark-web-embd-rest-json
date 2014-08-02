@@ -1,9 +1,9 @@
 // This #include statement was automatically added by the Spark IDE.
-#include "SparkTime.h"
-#include "HttpRequest.h"
-#include "HttpResponse.h"
+#include "spark-web-embd-rest-json/SparkTime.h"
+#include "spark-web-embd-rest-json/HttpRequest.h"
+#include "spark-web-embd-rest-json/HttpResponse.h"
 #include "http_parser.h"
-#include "spark-web-embd-rest-json.h"
+#include "spark-web-embd-rest-json/spark-web-embd-rest-json.h"
 #include <map>
 #include <list>
 
