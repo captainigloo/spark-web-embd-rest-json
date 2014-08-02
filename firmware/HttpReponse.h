@@ -9,8 +9,8 @@
  * for more details.
  */ 
 
-#ifndef _HTTP_RESPONSE_H_
-#define _HTTP_RESPONSE_H_
+#ifndef __HTTP_RESPONSE_H__
+#define __HTTP_RESPONSE_H__
 
 #include <spark_wiring_stream.h>
 
