@@ -9,7 +9,7 @@
  * for more details.
  */ 
  
-#include "spark-web-embd-rest-json/HttpRequest.h"
+#include "HttpRequest.h"
 #include <spark_wiring_usbserial.h>
 
 void HttpRequest::setURL(const char *const aURL) {
