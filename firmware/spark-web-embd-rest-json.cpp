@@ -21,7 +21,7 @@
 #include <ctype.h>
 #include <string.h>
 
-#include "spark-web-embd-rest-json.h"
+#include "spark-web-embd-rest-json/spark-web-embd-rest-json.h"
 
 #define MAX_BRANCHES 100
 #define MAX_BRACKETS 100
