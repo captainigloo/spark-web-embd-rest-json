@@ -28,7 +28,7 @@
 
 */
 
-#include "spark-web-embd-rest-json/SparkTime.h"
+#include "SparkTime.h"
 
 SparkTime::SparkTime()
 {
