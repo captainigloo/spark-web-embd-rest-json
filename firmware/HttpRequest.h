@@ -21,8 +21,8 @@
 
 // #define USE_HEADERS
 #ifdef USE_HEADERS
-#define MAX_HEADER_FIELD_LENGTH 128
-#define MAX_HEADER_VALUE_LENGTH 128
+#define MAX_HEADER_FIELD_LENGTH 256
+#define MAX_HEADER_VALUE_LENGTH 256
 #endif
 
 class HttpRequest {
